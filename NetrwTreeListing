@@ -1,0 +1,57 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v166)
+"   /f
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+f/
+| $RECYCLE.BIN/
+| System Volume Information/
+| kalyan/
+| | Java/
+| | Kalyan Kumar iPhone/
+| | Support/
+| | angular/
+| | bin/
+| | career/
+| | clients/
+| | cloud/
+| | conf/
+| | downloads/
+| | git/
+| | | ang-demo/
+| | | demo/
+| | | | .git/
+| | | | one.txt/
+| | | | README.md
+| | | | app.js
+| | | | common.js
+| | | new/
+| | iphone/
+| | lib/
+| | logs/
+| | marriage/
+| | projects/
+| | resumes/
+| | spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64/
+| | temp/
+| | viitor/
+| | webapps/
+| | works/
+| | putty.exe*
+| | puttygen.exe*
+| | LICENSE
+| | NOTICE
+| | RELEASE-NOTES
+| | RUNNING.txt
+| | git-practice.txt
+| | logos (1).zip
+| | mysql-5.7.13-winx64.msi
+| | spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64.zip
+| praveen/
+| work/
+| Kalyan_FullStack_6+.docx
+| eonservices.zip
+| pagefile.sys
